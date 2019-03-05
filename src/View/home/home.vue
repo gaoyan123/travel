@@ -1,15 +1,19 @@
 <template>
   <div class="home">
-    <h1>home</h1>
+    <home-header></home-header>
   </div>
 </template>
 
 <script>
+  import homeHeader from './components/header'
     export default {
-        name: "home.vue"
+        name: "home.vue",
+        components:{
+          homeHeader
+        }
     }
 </script>
 
-<style scoped>
+<style lang="stylus" scoped>
 
 </style>

@@ -5,7 +5,8 @@ import App from './App'
 import router from './router'
 // 解决移动端三百毫秒点击延迟插件
 import fastClick from 'fastclick'
-import reset from './assets/styles/reset.css'
+import reset from 'styles/reset.css'
+import iconfont from 'styles/iconfont.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body);
