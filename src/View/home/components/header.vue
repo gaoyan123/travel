@@ -2,7 +2,7 @@
   <div class="header">
     <div class="header-left"><div class="iconfont back-icon">&#xe616;</div></div>
     <div class="header-input"><span class="iconfont input-icon">&#xe650;</span>输入城市/景点/游玩主题</div>
-    <div class="header-right">城市1 <span class="iconfont city-icon">&#xe635;</span></div>
+    <div class="header-right">城市 <span class="iconfont city-icon">&#xe635;</span></div>
   </div>
 </template>
 
