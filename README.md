@@ -1,27 +1,24 @@
 # travel
 
-> A Vue.js project
+>项目描述：手机端美团首页，城市选择以及详情页面
+>使用技术：Vue -Cli + ES6 + Stylus + ElementUI + VueX + Axios
+>插件使用：better-Scroll Swiper 
 
-## Build Setup
+## 项目配置
 
 ``` bash
-# install dependencies
+# 安装相关依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行命令
 npm run dev
 
-# build for production with minification
+# 上线打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
+# 运行单元测试
 npm run e2e
 
-# run all tests
-npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
